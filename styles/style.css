@@ -575,6 +575,9 @@ section {
     html {
         font-size: 50%;
     }
+    .home img {
+        height: 20rem;
+        width: 20rem;
 }
 /* large */
 @media (max-width: 1200px) {
