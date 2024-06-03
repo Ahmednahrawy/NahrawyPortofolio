@@ -59,45 +59,9 @@
 
 ![3](https://github.com/Ahmednahrawy /nahrawyPortofolio /assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
 
-## 🎥 Video
-
-https://github.com/Ahmednahrawy /nahrawyPortofolio /assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
-
-## 🛠 Dependencies
-
-```pubspec.yaml
-  date_picker_timeline: 
-  flutter_bloc: 
-  flutter_screenutil: 
-  fluttertoast: 
-  get_it: 
-  google_fonts: 
-  intl: 
-  shared_preferences: 
-  smooth_page_indicator: 
-  sqflite: 
-  flutter_local_notifications: 
-  timezone: 
-  flutter_timezone: 
-  workmanager: 
-```
-
 ## ☢️ Usage
 
 1. **Clone the repository**
-
-2. **Open the project in your preferred Flutter IDE.**
-
-3. **Explore the `lib` directory:**
-
-    - Review the project structure to understand the core of the app.
-    - Customize the app of your need.
-
-4. **Run the app on an emulator or physical device:**
-
-    ```bash
-    flutter run
-    ```
 
 ## 🚨 Contributing
 
